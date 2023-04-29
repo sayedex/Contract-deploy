@@ -26,9 +26,6 @@ module.exports = {
       url: `https://eth-mainnet.gateway.pokt.network/v1/5f3453978e354ab992c4da79`,
       accounts: [`0x${ROPSTEN_PRIVATE_KEY}`],
       timeout: 10000000,
-    },goril:{
-      url:`https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161`,
-      accounts: [`0x${ROPSTEN_PRIVATE_KEY}`],
     }
 
 
